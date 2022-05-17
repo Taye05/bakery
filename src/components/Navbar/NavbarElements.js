@@ -41,5 +41,5 @@ export const NavIcon = styled.div `
 
 export const Bars = styled(GiSlicedBread)`
   font-size: 2rem;
-  transform: translate(-50%, -15%) 
+  transform: translate(-50%, -15%); 
 `

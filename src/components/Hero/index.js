@@ -13,7 +13,7 @@ const Hero = () => {
        
            <HeroContainer>
                <Navbar toggle={toggle} />
-               <Sidebar isOpen={isOpen} toggle={toggle}/>
+               {/* <Sidebar isOpen={isOpen} toggle={toggle}/> */}
                <HeroContent>
                    <HeroItems>
                        <HeroH1>Greatest bakery ever</HeroH1>
